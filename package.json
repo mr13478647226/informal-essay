@@ -32,5 +32,13 @@
     "node-sass": "^4.12.0",
     "prettier": "^1.19.1",
     "sass-loader": "^8.0.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mr13478647226/informal-essay.git"
+  },
+  "bugs": {
+    "url": "https://github.com/mr13478647226/informal-essay/issues"
+  },
+  "homepage": "https://github.com/mr13478647226/informal-essay#readme"
 }
